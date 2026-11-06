@@ -1,7 +1,7 @@
 # 🏎️ AUTOMOTIVE WORLD
 ### Svět supersportů, rychlosti a automobilových technologií
 
-![Automobilový svět](images/car.jpg)
+![Automobilový svět](images/car.jpg.jpg)
 
 Vítej ve světě automobilů! Tento projekt představuje fascinující svět **sportovních vozů, supersportů, motorů a tuningu**. Najdeš zde zajímavosti o nejznámějších automobilech, jejich výkonu a technologiích.
 
